@@ -1,6 +1,6 @@
 # 💫 About Me:
 Sou Analista de dados na empresa Comercial Monlevade.<br>
-Sou Desenvolvedor FullStack e assessor de projetos da Visão Junior.<br>Cursando o sétimo período de Sistemas de Informação - UFOP.<br>Estudando atualmente typescript, react e Next.js.
+Sou Desenvolvedor FullStack e assessor de projetos da Visão Junior.<br>Cursando o sétimo período de Sistemas de Informação - UFOP.<br>Estudando atualmente Typescript, React e Next.js.
 
 
 # 💻 Tech Stack:
