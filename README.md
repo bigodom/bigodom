@@ -1,5 +1,6 @@
 # 💫 About Me:
-Sou desenvolvedor fullstack e asessor de projetos da Visão Junior.<br>Cursando o sexto período de Sistemas de Informação - UFOP.<br>Estudando atualmente node.js, typescript e java.
+Sou Analista de dados na empresa Comercial Monlevade.<br>
+Sou Desenvolvedor FullStack e assessor de projetos da Visão Junior.<br>Cursando o sétimo período de Sistemas de Informação - UFOP.<br>Estudando atualmente typescript, react e Next.js.
 
 
 # 💻 Tech Stack:
